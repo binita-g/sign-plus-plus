@@ -1,0 +1,11 @@
+{
+    "name": "Sign++",
+    "version": "1.0.0",
+    "description": "Live ASL Captioning on Google Meet",
+    "manifest_version": 3,
+    "author": "Binita Gupta",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Sign++"
+    }
+}
